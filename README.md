@@ -3,6 +3,9 @@
 SpigotMC Plugin that gives you the ability to tame foxes!
 </p>
 
+## Archive Notice
+I have moved on to other projects and no longer maintain this plugin. Feel free to fork it and continue development, ensure you follow the [LICENSE](LICENSE).
+
 ### WARNING: Do not reload the plugin, you may loose foxes!!
 
 ### Default configuration files:

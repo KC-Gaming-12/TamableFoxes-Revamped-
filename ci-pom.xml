@@ -9,14 +9,6 @@
     <version>2.2.11-SNAPSHOT</version>
     <packaging>pom</packaging>
 
-    <repositories>
-        <repository>
-            <id>seanomik-maven-spigot-private</id>
-            <name>SeanOMik Maven Repository</name>
-            <url>https://maven.seanomik.net/spigot-private</url>
-        </repository>
-    </repositories>
-
     <modules>
         <module>Plugin</module>
         <module>Utility</module>
